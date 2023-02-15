@@ -1,5 +1,5 @@
 ### Future C/C++ (maybe also Rust and or Assembly who knows...) wizard. 👋  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampie159&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sampie159&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Sampie159/Sampie159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
