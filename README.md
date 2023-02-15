@@ -1,4 +1,4 @@
-### Hi there 👋
+### Future C/C++ (maybe also Rust and or Assembly who knows...) wizard. 👋
 
 <!--
 **Sampie159/Sampie159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
